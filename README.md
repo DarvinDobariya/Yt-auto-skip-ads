@@ -4,6 +4,7 @@ Use this extension at your own risk. The creator assumes no responsibility for a
 
 # How to Install This Extension
 Download .zip file of this repository, and extract it.
+
 Step 1: Open your browser and go to Settings → Extensions.
 
 Step 2: Enable Developer Mode.
