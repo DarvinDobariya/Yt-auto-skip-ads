@@ -3,6 +3,7 @@ This extension, created by Darvin Dobariya, is intended for testing and fun purp
 Use this extension at your own risk. The creator assumes no responsibility for any legal actions, account suspension, or bans resulting from its use.
 
 # How to Install This Extension
+Download .zip file of this repository, and extract it.
 Step 1: Open your browser and go to Settings → Extensions.
 
 Step 2: Enable Developer Mode.
