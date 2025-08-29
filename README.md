@@ -20,4 +20,5 @@ This extension has only been tested on Google Chrome and Microsoft Edge.
 It may not work on other browsers.
 
 # Disclaimer!
-This extension is strictly for testing purposes.
+This extension is strictly for testing purposes. 
+This extension is only made for knowledge and learning purpose only.
