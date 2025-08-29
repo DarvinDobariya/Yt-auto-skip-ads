@@ -1,4 +1,4 @@
-# YT-Auto-Skip-Ads
+# Yt-Auto-Skip-Ads
 This extension, created by Darvin Dobariya, is intended for testing and fun purposes only. YT Auto Skip Ads may enable automatic skipping of YouTube ads, but it is not designed for commercial use or distribution.
 Use this extension at your own risk. The creator assumes no responsibility for any legal actions, account suspension, or bans resulting from its use.
 
