@@ -1,4 +1,7 @@
 # YT Auto Skip Ads
+
+(this is edit by aother)
+
 This extension, created by Darvin Dobariya, is strictly for educational, experimental, and personal testing purposes.
 YT Auto Skip Ads demonstrates techniques for interacting with browser extensions in a controlled environment and is not intended for production, commercial use, or distribution.
 Use this extension at your own risk. The creator assumes no responsibility for any legal actions, account suspension, or bans resulting from its use.
