@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "YouTube Auto Skipper",
-  "version": "1.0",
-  "description": "Automatically skips YouTube ads when the skip button is available",
+  "name": "YouTube Ads Skipper",
+  "version": "1.1",
+  "description": "Automatically skips YouTube ads | educational purpose only | use at your own risk",
   "permissions": ["activeTab"],
   "content_scripts": [
     {
